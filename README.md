@@ -1,8 +1,8 @@
-# Data Management (BAX 421 – 001) - Fall 2023
+# Data Management
 Welcome to my repository for the Data Management course at the Graduate School of Management, UC Davis. This course, led by Mehul Rangwala, focuses on the fundamental aspects of data management, including data extraction, storage, organization, and the conversion of data into actionable insights.
 
-### Course Overview
-This course provides an introduction to data management within IT systems, covering essential concepts like data modeling, entity-relationship models, and SQL. We delve into using MySQL and Microsoft SQL Server for crafting SQL queries, alongside practical exercises to design and deploy database solutions. A significant component of the course involves connecting databases to RStudio and Tableau for data visualization and analysis.
+### Overview
+This repository tracks my learning of data management. Learning includes introduction to data management within IT systems, essential concepts like data modeling, entity-relationship models, and SQL. We delve into using MySQL and Microsoft SQL Server for crafting SQL queries, alongside practical exercises to design and deploy database solutions. A significant component of the course involves connecting databases to RStudio and Tableau for data visualization and analysis.
 
 ### Learning Objectives
 - Grasp the fundamentals of relational database modeling and normalization.
